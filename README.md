@@ -1,5 +1,5 @@
 # frontend-mentor-1
- Repo for frontend-mentor projects
+ Repo for simple frontend-mentor projects
  
 1.grid-articles - https://frontend-mentor-1-smoky.vercel.app/
 
