@@ -13,14 +13,13 @@
     body {
             background-color: var(--light-gray);
             font-family: 'Outfit', sans-serif;
-            min-height: 100vw;
         }
     
         .flex-container {
             display: flex;
             justify-content: center;
             align-items: center;
-            margin-top:6rem;
+            height:100vh;
         }
     
         .flex-element {
